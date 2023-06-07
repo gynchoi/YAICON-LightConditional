@@ -1,0 +1,4 @@
+# pack-refs with: peeled fully-peeled sorted 
+e426b215b584161ae18efc37466ab2b213c2d219 refs/remotes/origin/gh-pages
+a96645365cd444126d67d2a0b65c095b1ba67905 refs/remotes/origin/master
+462f80ba10518c16410e22f0adecf0e6ffdbc0de refs/remotes/origin/python2.7
