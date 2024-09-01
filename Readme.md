@@ -1,5 +1,5 @@
 # YAICON LightConditional
-## 2023 Yonsei Yai Contest (YAICON) (Apr.2023 - June.2023)
+## 2023 Yonsei Yai Contest (YAICON) (Apr.2023 - May.2023)
 <a href="https://youtu.be/qO3aIaaqKaY?feature=shared">
     <img src="https://img.shields.io/badge/Youtube-ff0000?style=flat-sqaure&logo=youtube" alt="Youtube" />
 </a>
