@@ -1,3 +1,14 @@
+# YAICON LightConditional
+## 2023 Yonsei Yai Contest (YAICON) (Apr.2023 - June.2023)
+<a href="https://youtu.be/qO3aIaaqKaY?feature=shared">
+    <img src="https://img.shields.io/badge/Youtube-ff0000?style=flat-sqaure&logo=youtube" alt="Youtube" />
+</a>
+
+- **Theme**: Image Relighting Using Neural Radiance Fields (NeRF)
+- **Team**: Light Conditional
+- **Organized by**: Yonsei Artificial Intelligence (YAI)
+
+## Presentation
 <img src="LightConditional_발표자료/슬라이드1.jpeg">
 <img src="LightConditional_발표자료/슬라이드2.jpeg">
 <img src="LightConditional_발표자료/슬라이드3.jpeg">
